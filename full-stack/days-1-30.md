@@ -4,7 +4,7 @@
   - **Projects:** Static personal portfolio website
   - **Resources:** [HTML & CSS Crash Course](https://www.freecodecamp.org/news/html-css-crash-course/)
   - **DSA Topics:** Arrays
-- 
+  
 - **Days 8-14:** JavaScript Basics
   - **Projects:** Add interactivity to the portfolio website
   - **Resources:** [JavaScript Basics](https://www.w3schools.com/js/js_intro.asp)
