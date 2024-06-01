@@ -26,6 +26,16 @@ This repository provides an interactive and comprehensive roadmap designed to gu
 3. Open the corresponding markdown file (`README.md`) to view the daily breakdown, tasks, and resources.
 4. Follow the daily tasks, work on projects, and explore the provided resources to enhance your learning journey.
 
+## General Guidilines 
+ -  Total duration : 300 days 
+ -  Full stack : 180 days
+ -  DevOps : 120 days
+ -  Daily commitments : 3 - 4 hours (1 for DSA , 2 - 3 for primary learning)
+ -  ## Daily Schedule Structure 
+    -  Daily DSA : 1 hrs
+    -  Primary learning : 2 - 3 hours
+  
+
 ## Contributions
 
 Contributions, feedback, and suggestions are welcome! If you have any ideas for improvement, additional resources, or new topics to include, please feel free to open an issue or submit a pull request.
