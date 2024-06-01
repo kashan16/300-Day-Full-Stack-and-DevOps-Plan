@@ -18,6 +18,7 @@ This repository provides an interactive and comprehensive roadmap designed to gu
 
 - **Full-Stack Development:** Dive into HTML, CSS, JavaScript, React, Node.js, and more to master the art of building modern web applications.
 - **DevOps:** Explore Linux, Docker, Kubernetes, CI/CD, monitoring, and security to become proficient in DevOps practices and methodologies.
+- - **DSA:** For DSA i'll prefer [STRIVER'S A2Z DSA SHEET](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ## Getting Started
 
