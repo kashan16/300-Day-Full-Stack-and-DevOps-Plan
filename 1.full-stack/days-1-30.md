@@ -2,7 +2,7 @@
 - **Days 1-7:** HTML, CSS
   
   - **Projects:** Static personal portfolio website
-  - **Resources:** [HTML & CSS Crash Course](https://www.freecodecamp.org/news/html-css-crash-course/)
+  - **Resources:** [HTML](https://www.w3schools.com/html/) & [CSS Crash Course](https://www.w3schools.com/css/)
   - **DSA Topics:** Arrays
   
 - **Days 8-14:** JavaScript Basics
